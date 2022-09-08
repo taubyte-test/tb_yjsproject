@@ -8,6 +8,7 @@ trigger:
         - /ws/url
 domains:
     - testDomain
+    - hal_domain
 includes:
     - /functions/getsocketurl.go
 execution:

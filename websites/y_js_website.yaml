@@ -3,6 +3,7 @@ description: ""
 tags: []
 domains:
     - testDomain
+    - hal_domain
 libraries: []
 source:
     paths:
