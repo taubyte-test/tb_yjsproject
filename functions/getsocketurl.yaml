@@ -1,5 +1,5 @@
 id: QmU8VCp2Yh7vs2KBRfjfzFoxY1dqcqKG2kAfdJagYBHun4
-description: Returns a socket url to the matched channel
+description: Returns a socket url to the matched channel with an optional room query
 tags: []
 trigger:
     type: https
