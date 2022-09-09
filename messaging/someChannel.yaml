@@ -3,7 +3,7 @@ description: ""
 tags: []
 local: false
 channel:
-    regex: false
+    regex: true
     match: someChannel
 bridges:
     mqtt:
