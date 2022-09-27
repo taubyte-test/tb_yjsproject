@@ -1,1 +1,1 @@
-This is your config repository
+This is your config repositorys
